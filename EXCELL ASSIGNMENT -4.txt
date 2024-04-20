@@ -1,0 +1,87 @@
+                                      EXCELL ASSIGNMENT -4
+
+
+
+QUESTION 1. To use the ribbon commands, what menu and grouping of       commands will you
+                      find the Insert and Delete command?
+
+ANSWER=
+
+               To use the ribbon commands, the Insert and Delete command will be find under the
+               HOME menu and CELLS grouping of commands.
+     
+              Insert - Button with Drop-Down. The button always inserts cells into the current selection,
+                         shifting cells down. The drop-down contains the commands: Insert Cells, Insert Sheet Rows
+                         and Insert Sheet Columns, Insert Sheet.
+               
+              Delete - Button with Drop-Down. The button always deletes the current selection shifting
+                         cells up. The drop-down contains the commands: Delete Cells, Delete Sheet Rows, Delete
+                         Sheet Columns and Delete Sheet.
+
+
+
+
+QUESTION  2. If you set a row height or column width to 0 (zero), what happens to the row and
+                       column?
+
+ANSWER=
+              If we set the row height to 0 (zero), Excel will hide the row.
+              Just like rows, if we set the column width to 0 (zero), Excel will hide the column.
+
+
+
+
+
+QUESTION  3. Is there a need to change the height and width in a cell? Why?
+
+ANSWER=
+          It is necessary to change width and height of a cell in excel to fit the data.
+          Excel by default provide equal width and height with respect to columns and rows.
+          Whenever we enter a lengthy data, few characters will get displayed and other will be
+          present inside the cell but will be hidden to the user. It is necessary to change the rows and
+          column’s height and width to have a good presentation in excel. Few other cells width and
+          height needs to be reduced so that it represents a smaller amount of data such as Gender
+          which accepts ‘F’ or ‘M’.
+
+
+
+
+
+QUESTION 4. What is the keyboard shortcut to unhide rows?
+
+ANSWER=
+              To unhide rows, we make a selection that spans hidden rows, and use the following
+              shortcut key: Ctrl + Shift + 9.
+
+
+
+
+QUESTION 5. How to hide rows containing blank cells?
+
+ANSWER=
+               To hide rows that contain any blank cells, we proceed with these steps:
+            
+                      1. Select the range that contains empty cells we want to hide.
+                      2. On the Home tab, in the Editing group, click Find & Select > Go To Special.
+                      3. In the Go To Special dialog box, select the Blanks radio button, and click OK. This will
+                         select all empty cells in the range.
+                     4. Press Ctrl + 9 to hide the corresponding rows.
+
+
+
+
+
+
+QUESTION 6. What are the steps to hide the duplicate values using conditional formatting in
+                      excel?
+ANSWER=
+               1. Select the range you want to hide duplicates.
+               2. Then click Conditional Formatting > Highlight Cells Rules > Duplicate Values under
+                   Home tab.
+              3.  In the Duplicate Values dialog box, select Custom Format in the values with dropdown
+                   list, and then click the OK button.
+              4.  In the Format Cells dialog box, go to the Font tab, and in the Color drop-down list,
+                  choose a font color which matches the background color of your selected range cell. And
+                  finally click the OK button.
+              5. When it returns to the Duplicate Values dialog box, click the OK button.
+                  Now all duplicate records in selected columns are hidden immediately
