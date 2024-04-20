@@ -1,0 +1,94 @@
+                                                                          EXCELL   ASSIGNMENT  - 3
+
+
+
+
+QUESTION 1. How and when to use the AutoSum command in excel?
+
+ANSWER =
+                 Whenever we need to sum a single range of cells, whether a column, row or several
+                 adjacent columns or rows, we can have Excel AutoSum to automatically make an
+                 appropriate SUM formula for us.
+
+To use AutoSum in Excel, we need to follow these 3 easy steps:
+    
+1. Select a cell next to the numbers you want to sum:
+                . To sum a column, select the cell immediately below the last value in the column.
+                . To sum a row, select the cell to the right of the last number in the row.
+ 
+2. Click the AutoSum button on either the Home or Formulas tab.
+     A Sum formula appears in the selected cell, and a range of cells you're adding gets
+     highlighted.
+
+3. Press the Enter key to complete the formula. 
+
+
+
+
+QUESTION 2. What is the shortcut key to perform AutoSum? 
+
+ANSWWR = 
+                 Pressing the Equal Sign key while holding the Alt key inserts a Sum formula in a selected
+                 cells(s) exactly like pressing the AutoSum button on the ribbon does, and then you hit the
+                 Enter key to complete the formula. 
+
+
+
+
+
+
+QUESTION 3. How do you get rid of Formula that omits adjacent cells? 
+
+ ANSWER=
+                 1. Open Excel and then click on File.
+                 2. Go to Options and then select Formulas.
+                 3. Look for Error checking rules and uncheck Formulas which omit cells in a region.
+                 4. Click OK. 
+
+
+
+
+
+QUESTION 4. How do you select non-adjacent cells in Excel 2016? 
+
+ANSWER=
+                Holding the Ctrl key and selecting the cells is one of the best ways to select non
+                adjacent cells in Excel.
+
+               To select non-adjacent cells, first, we select a cell. Once we click on it, that becomes the
+               active cell. By pressing and holding the Ctrl key, select the cells we want to select. We can
+               either click on each cell or use the mouse and drag to select a range of cells. Once we have
+               selected all the necessary cells, leave the Ctrl key. In this way, all the non-adjacent cells are
+               selected.
+
+
+
+
+
+QUESTION  5. What happens if you choose a column, hold down the Alt key and press the letters
+                       O-C-W in quick succession? 
+
+ANSWER=
+                  The column width dialogue box opens allowing us to set the exact width of the column.
+                  We can insert a value in the column width dialogue box for how wide we would like a
+                  column to be. This is especially useful if we have several non-adjacent columns that we need
+                  to be the same width. 
+
+
+
+
+
+QUESTION 6. If you right-click on a row reference number and click on Insert, where will the row
+                      be added?
+
+ ANSWER=If we right-click on a row reference number and click on Insert, a new row is inserted
+                  above the cell(s) we originally selected. 
+                    
+
+
+
+
+
+
+
+
