@@ -1,0 +1,119 @@
+                        EXCELL  ASSIGNMENT -5
+
+
+
+
+QUESTION 1 . How many types of conditions are available in conditional formatting on Excel?
+
+
+1.Cell Value:
+                   Format cells based on their specific values or ranges of values.
+
+2.Data Bars:
+                   Represent data in cells using horizontal bars. The length of the bar corresponds to the cell's value.
+           
+3.Color Scales:
+                    Apply a color gradient to cells based on their values. This helps visually highlight high and low values.
+              
+4. Icon Sets:
+                    Use icons (such as arrows, shapes, or other symbols) to represent data ranges.
+                
+5.Top/Bottom Rules:
+                       Format the top or bottom percentage, number, or percentile of values in a range.
+                       
+6.Text that Contains:
+                        Format cells based on whether they contain specific text.
+ 
+7.Duplicate Values:
+                      Highlight cells with duplicate or unique values in a range.
+
+8.Date Occurring:
+                    Format cells based on a specified date criterion, such as this week, next week, last month, etc.
+
+9.Formula:
+                 Create custom formatting rules using formulas.
+
+10.Blanks:
+                Highlight cells that are blank or contain errors.
+
+
+
+
+
+
+
+
+QUESTION 2.  How to insert border in Excel with Format Cells dialog?
+
+ANSWER=
+                The Format Cells dialog is the most effective method of adding borders in Excel. It gives us easy
+                access to all the settings including the line color and thickness as well as a nice diagram preview.
+              
+                Following are the steps to insert a border via the Format Cells dialog:
+                                . Select one or more cells to which we'd like to add borders.
+                                . Open the Format Cells dialog box by pressing Ctrl+1.
+                                . In the Format Cells dialog box, switch to the Border tab and choose the line style and color first.
+               And then, either use Presets to add the outside or inside borders or construct the desired border by
+               selecting individual elements such as border top, bottom, right or left. The preview diagram will
+               reflect the changes immediately.
+             .When done, click OK.
+
+
+
+
+
+QUESTION 3. How to Format Numbers as Currency in Excel?
+ANSWER=
+
+              Step 1: Select the range of cells that we want to Format.
+              Step 2: Go to Home tab >> Number group >> Click on the down arrow in the Number Format box.
+              Step 3: Now, Click on the Currency option from the given list.
+              We will see that the currency symbol ( ₹ ) has appeared just before the first digit in the cell
+              and the decimal points are aligned.
+. Shortcut key for formatting numbers as currency is Ctrl+Shift+4.
+
+
+
+
+
+
+
+QUESTION 4.  What are the steps to format numbers in Excel with the Percent style?
+
+ANSWER=
+            To apply the percentage number format to a number, first select the number(s), then use any
+            of these methods:
+               . Use the keyboard shortcut Control + Shift + Enter
+               . Select "Percentage" from the dropdown on the home tab of the ribbon
+               . Click the % button in the Number section on the home tab of the ribbon
+               . Control + 1 > Number > Percentage
+
+
+
+
+
+QUESTION 5.  What is a shortcut to merge two or more cells in excel?
+ANSWER=
+              a) Select the number of cells we want to merge.
+              b) Now press the shortcut key ALT + H + M + M.
+
+
+
+
+
+
+QUESTION 6. How do you use text commands in Excel?
+ANSWER=
+             TEXT function is used to convert a value to text in a specific number format.
+           . Syntax: =TEXT(value, format_text)
+
+           Where,
+             . Value is the numerical value that we need to convert to text
+             . Format_text is the format we want to apply
+           TEXT function is basically used to modify a date format in Excel. In the first argument, we have to
+           input the date value or the cell reference of a date. Then we can define a proper date format by
+           our own customization
+
+        . suppose   we have  23-5-2029 inside  cell A1
+           . now, when we write  in the  formula bar     =TEXT(A1,"d mmmm,yyyy")  sellicting cell  B1
+           . then we will get answer in cell B1 as  23 may, 2029 
